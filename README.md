@@ -2,7 +2,7 @@
 
 ## Overview
  
- The purpose of this project is to help Steve find the stock data he needs more effectively. Initially, we helped Steve find data for a specific stock, but now he wants to to be able to find data for the whole stock market.  We will do this by altering our original work and eliminating or  changing inefficient code.
+ The purpose of this project is to help Steve find the stock information he needs more effectively. Initially, we helped Steve find reports for a specific stock, but now he wants details for the whole stock market.  We will do this by altering our original work and eliminating or changing inefficient code.
  
 ## Results
 The results with our original code and our new(optimized) code are the same. However, our original code is not optimized for effieciency.
