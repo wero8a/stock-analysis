@@ -36,4 +36,4 @@ If we compare the time difference you can see that our refactored code runs appr
 In many cases, refactoring is a normal occurance because many programs must be updated to keep working as intended. It is important to make code more understandable and clean for everyone so that everything runs faster and smoother. This will facilitate refactoring in the future. One of the downsides to refactoring is that it takes time because it is a delicate process. It must be done in small sections and be tested constantly to avoid compromising its functionality.
 
 #### References
-https://lvivity.com/what-is-code-refactoring
+[refactoring](https://lvivity.com/what-is-code-refactoring)
